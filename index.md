@@ -14,7 +14,7 @@ arp 156-5002 (side bolts)
 Ford Conn Rods (#AL8Z-6200-A),
 ### Pistons:
 Enginetech P5002(6)STD PISTON FORD 3.0L DOHC DURATEC
-### Temperature sensor:
+### Coolant Temperature sensor:
 F5AF-12A648-AB
 
 
