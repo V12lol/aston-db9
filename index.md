@@ -9,11 +9,12 @@
 Clevite separate main bearings # (Original MB-3841A) MS-2259A √  AMZ
 ### Bottom Bolts
 Bearing bolts:
+
 arp 256-5701 (Buy 2 kits) . √ AMZ
+
 arp 156-5002 (side bolts) . √ AMZ
 ### Connecting rods:
-Ford Conn Rods (#AL8Z-6200-A),
-$331.03 √ Wade Ford Parts
+Ford Conn Rods (#AL8Z-6200-A) $331.03 √ Wade Ford Parts
 ### Pistons:
 Enginetech P5002(6)STD PISTON FORD 3.0L DOHC DURATEC 
 CarID $240.05 √
