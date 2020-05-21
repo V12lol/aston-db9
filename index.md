@@ -5,6 +5,7 @@
 ## Cheatsheet:
 ### Rod and main bearings"
 (Clevite rod bearings # CB1772P) √ $56
+
 Clevite separate main bearings # (Original MB-3841A) MS-2259A √  AMZ
 ### Bottom Bolts
 Bearing bolts:
@@ -16,6 +17,7 @@ $331.03 √ Wade Ford Parts
 ### Pistons:
 Enginetech P5002(6)STD PISTON FORD 3.0L DOHC DURATEC 
 CarID $240.05 √
+Piston Rings: Sealed Power E-931K ~$100
 ### Coolant Temperature sensor:
 F5AF-12A648-AB
 ###  Oil Filter:
