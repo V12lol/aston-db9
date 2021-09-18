@@ -1,7 +1,6 @@
 # Aston DB9 that started in a driveway...
 
 
-
 ## Cheatsheet:
 ### Rod and main bearings"
 (Clevite rod bearings # CB1772P) √ $56
@@ -31,6 +30,11 @@ Motorcraft FL820S
 
 Relocated:
 Motorcraft FL300
+
+###  Fuel vacuum hose
+4G43-9E498-AA vacuum harness engine(fuel)
+F81Z-9E498-DA diesel hose
+
 ###  Belts and Tensioners:
 
 Dayco 5061070 Serpentine Belt
