@@ -22,8 +22,12 @@ Piston Rings: Sealed Power E-931K ~$100
 ### Coolant Temperature sensor:
 F5AF-12A648-AB
 
+### VALVES
 
-### IGNITION COILS 
+https://www.rockauto.com/en/catalog/ford,2004,taurus,3.0l+v6+dohc,1425057,engine,intak e+valve,5544
+
+### IGNITION COILS
+
 DG528 DG517 FD496 C1346 Q6EJG496
 ###  Oil Filter:
 Motorcraft FL820S
